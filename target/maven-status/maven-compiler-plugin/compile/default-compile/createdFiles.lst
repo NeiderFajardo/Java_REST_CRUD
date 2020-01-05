@@ -1,0 +1,7 @@
+mx/com/gm/domain/Persona.class
+mx/com/gm/servicio/PersonaServiceRS.class
+mx/com/gm/data/PersonaDaoImpl.class
+mx/com/gm/web/JAXRSActivator.class
+Launch/Prueba.class
+mx/com/gm/web/CorsFilter.class
+mx/com/gm/data/PersonaDao.class

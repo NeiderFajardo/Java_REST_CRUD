@@ -1,0 +1,6 @@
+/home/neideralejandro/NetBeansProjects/personas-backend-java/src/main/java/mx/com/gm/web/JAXRSActivator.java
+/home/neideralejandro/NetBeansProjects/personas-backend-java/src/main/java/mx/com/gm/web/CorsFilter.java
+/home/neideralejandro/NetBeansProjects/personas-backend-java/src/main/java/mx/com/gm/domain/Persona.java
+/home/neideralejandro/NetBeansProjects/personas-backend-java/src/main/java/mx/com/gm/data/PersonaDao.java
+/home/neideralejandro/NetBeansProjects/personas-backend-java/src/main/java/mx/com/gm/data/PersonaDaoImpl.java
+/home/neideralejandro/NetBeansProjects/personas-backend-java/src/main/java/mx/com/gm/servicio/PersonaServiceRS.java
